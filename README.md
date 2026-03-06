@@ -67,5 +67,4 @@ Key findings include:
 ├── run_spatiotemporal_covid_model.R
 ├── plot_observed_vs_predicted_maps.R
 ├── exploratory_spatiotemporal_analysis.R
-├── covid19_spatiotemporal_bayesian_analysis.pdf
-└── figures/
+├── covid19_spatiotemporal_bayesian_report.pdf
